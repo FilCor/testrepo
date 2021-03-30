@@ -1,2 +1,2 @@
 #adding a new file in child branch
-print("Indide Child Branch")
+print("Inside Child Branch")
